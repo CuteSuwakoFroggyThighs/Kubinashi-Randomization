@@ -36,3 +36,18 @@ The release will absolutely be updated some time in the next few days to include
 Possibly in the future, I'll look into including stages from Cirno, Rumia, and Seija's respective modes. That's a bit more work and will require adding doors to make sure the game is always possible to complete.
 
 Futher in the future, I may attempt adding character randomization. That will be a massive undertaking, as every stage will require a resouce allocation for each possible character, along with safe switching between everyone. We'll see. 
+
+
+# Credits 
+
+[ぱらどっと](https://sekibanki.jp/) (Paradot) for developing this wonderful game I adore to no end.
+
+[Pinky Cat](https://pinky-cat.github.io/) for information on editing stage loading.
+
+UndertaleModTool and its various offshoots for making it even possible to work with GameMaker modding.
+
+# Discredits
+
+Dinner for watching House MD for 2 hours then passing out with the show still running (and leaving most episodes cut off to the last 10 minutes so we couldn't see anything of the actual episode).
+
+I will not elaborate on why he gets his own section beyond that. 
