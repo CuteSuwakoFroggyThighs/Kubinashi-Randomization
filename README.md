@@ -8,6 +8,8 @@
 [KubinashiRandomization Sample.webm](https://github.com/user-attachments/assets/0676d422-c2b4-4b9f-9bdc-b588b2b420d5)
 
 # Installation
+Buy a copy of the game from Steam if you don't already own it. A steam copy is mandatory for the mod to work. [Kubinashi Recollection on Steam](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/)
+
 Download from [Releases](https://github.com/CuteSuwakoFroggyThighs/Kubinashi-Randomization/releases)
 
 #### 1. Extract the game's files from Game.exe using a program like WinRar or 7-Zip.
