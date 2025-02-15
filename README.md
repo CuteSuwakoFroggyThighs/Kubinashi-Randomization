@@ -3,14 +3,21 @@
   <img src="/kubinashiRandomization.png">
 </p>
 
-### _Doremy Sweet, who was supposed to be fully managing the dream world, has gotten far too stressed out with the memory fragment incident. The once orderly dream world is now a complete mess. Locations mashed together, diffiuclt challenges next to safe areas. Hopefully Sekibanki resolving this incident can bring the dream world back to order again._
+### _Doremy Sweet, who was supposed to be fully managing the dream world, has gotten far too stressed out with the memory fragment incident. The once orderly dream world is now a complete mess. Locations mashed together, difficult challenges next to safe areas. Hopefully Sekibanki resolving this incident can bring the dream world back to order again._
 
 [KubinashiRandomization Sample.webm](https://github.com/user-attachments/assets/0676d422-c2b4-4b9f-9bdc-b588b2b420d5)
+
+# Features
+
+- Randomized stage entrances
+- Functional stage saving and loading
+- Entirely possible to complete with 100% of achievements and S-Ranks
+- Omake stages can be added to the pool of stages
 
 # Installation
 Buy a copy of the game from Steam if you don't already own it. A steam copy is mandatory for the mod to work. [Kubinashi Recollection on Steam](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/)
 
-Download from [Releases](https://github.com/CuteSuwakoFroggyThighs/Kubinashi-Randomization/releases)
+Download the mod from [Releases](https://github.com/CuteSuwakoFroggyThighs/Kubinashi-Randomization/releases)
 
 #### 1. Extract the game's files from Game.exe using a program like WinRar or 7-Zip.
 #### 2. Using Delta Patcher (https://github.com/marco-calautti/DeltaPatcher) or some variant of a xdelta patcher, patch the Game.win file from the newly extracted folder using the included .xdelta patch (this may require moving it outside the folder first if you have issues with Japanese characters in the file directory).
@@ -33,7 +40,7 @@ Probably going to be ignored. If suggestions or fixes pop up, I'll look into the
 
 # Future Ideas
 
-The release will absolutely be updated some time in the next few days to include options for the Omake password stages. Currently they're not included due to a desire to finally publish the project.
+~~The release will absolutely be updated some time in the next few days to include options for the Omake password stages. Currently they're not included due to a desire to finally publish the project.~~ Finished and implemented.
 
 Possibly in the future, I'll look into including stages from Cirno, Rumia, and Seija's respective modes. That's a bit more work and will require adding doors to make sure the game is always possible to complete.
 
