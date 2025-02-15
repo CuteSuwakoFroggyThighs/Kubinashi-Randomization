@@ -7,6 +7,20 @@ w = IniWriter()
 #Defines all possible stage numbers for sorting
 stages = array('b', [30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88])
 
+#ask about adding omake stages to the pool
+while True:
+    try:
+        omake = input("Would you like omake password stages to be in the pool? (Yes/No): ")
+        includeomake = str(omake)
+        if includeomake.lower() in ("yes"):
+            stages.fromlist([93, 94, 95, 96, 97, 98, 99])
+            break
+        elif includeomake.lower() in ("no"):
+            break
+        else:
+            print("A simple Yes or No will suffice.")
+    except ValueError:
+        print("What? Go back")
 
 #ask for seeding or lack of seeing
 while True:
@@ -72,6 +86,12 @@ w.section('stageNine')
 eachworld()
 w.section('stageTen')
 eachworld()
+if includeomake.lower() in ("yes"):
+    w.section('omake')
+    eachworld()
+    w.key('levelSix', str(stages.pop(-1)))
+    w.key('levelSeven', str(stages.pop(-1)))
+
 
 w.write(savefile)
 
