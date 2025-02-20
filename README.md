@@ -13,6 +13,12 @@
 - Functional stage saving and loading
 - Entirely possible to complete with 100% of achievements and S-Ranks
 - Omake stages can be added to the pool of stages
+- Alternate character stages given their own doors in the entrance (accessable by beating all 10 worlds)
+- Alternate character stages can be added to the randomizer pool
+- Rumia cute
+
+[RumiaTest-[00.00.000-00.25.279]-audio.webm](https://github.com/user-attachments/assets/f43aec9c-bc80-4f97-beab-da8179e13c84)
+
 
 # Installation
 Buy a copy of the game from Steam if you don't already own it. A steam copy is mandatory for the mod to work. [Kubinashi Recollection on Steam](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/)
@@ -42,7 +48,7 @@ Probably going to be ignored. If suggestions or fixes pop up, I'll look into the
 
 ~~The release will absolutely be updated some time in the next few days to include options for the Omake password stages. Currently they're not included due to a desire to finally publish the project.~~ Finished and implemented.
 
-Possibly in the future, I'll look into including stages from Cirno, Rumia, and Seija's respective modes. That's a bit more work and will require adding doors to make sure the game is always possible to complete.
+~~Possibly in the future, I'll look into including stages from Cirno, Rumia, and Seija's respective modes. That's a bit more work and will require adding doors to make sure the game is always possible to complete.~~ It's done. Playable Cirno, Seija, and Rumia are all here. 
 
 Futher in the future, I may attempt adding character randomization. That will be a massive undertaking, as every stage will require a resouce allocation for each possible character, along with safe switching between everyone. We'll see. 
 
@@ -57,6 +63,6 @@ UndertaleModTool and its various offshoots for making it even possible to work w
 
 # Discredits
 
-Dinner for watching House MD for 2 hours then passing out with the show still running (and leaving most episodes cut off to the last 10 minutes so we couldn't see anything of the actual episode).
+Dinner for watching House MD for 2 hours then passing out with the show still running (and leaving most episodes cut off to the last 10 minutes so we couldn't see anything of the actual episode). He also hasn't shown up for Dragon Ball Daima. 
 
 I will not elaborate on why he gets his own section beyond that. 
