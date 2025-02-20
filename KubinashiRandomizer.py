@@ -22,6 +22,21 @@ while True:
     except ValueError:
         print("What? Go back")
 
+#ask about adding other character stages to the pool
+while True:
+    try:
+        alternate = input("What about other character stages? (Yes/No): ")
+        includealternate = str(alternate)
+        if includealternate.lower() in ("yes"):
+            stages.fromlist([104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 119, 120, 121, 122, 123])
+            break
+        elif includealternate.lower() in ("no"):
+            break
+        else:
+            print("A simple Yes or No will suffice.")
+    except ValueError:
+        print("What? Go back")
+        
 #ask for seeding or lack of seeing
 while True:
     try:
@@ -91,8 +106,16 @@ if includeomake.lower() in ("yes"):
     eachworld()
     w.key('levelSix', str(stages.pop(-1)))
     w.key('levelSeven', str(stages.pop(-1)))
-
+if includealternate.lower() in ("yes"):
+    w.section('stageRumia')
+    eachworld()
+    w.section('stageCirno')
+    eachworld()
+    w.key('levelSix', str(stages.pop(-1)))
+    w.key('levelSeven', str(stages.pop(-1)))
+    w.section('stageSeija')
+    eachworld()
 
 w.write(savefile)
 
-print('''In order to use the randomizer, drop the newly created save file into %localappdata%\DullahanRecollection''')
+print('In order to use the randomizer, drop the newly created save file into %localappdata%\\DullahanRecollection')
