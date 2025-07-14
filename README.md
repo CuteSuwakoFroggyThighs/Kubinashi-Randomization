@@ -22,6 +22,8 @@
 
 [RumiaTest-[00.00.000-00.25.279]-audio.webm](https://github.com/user-attachments/assets/f43aec9c-bc80-4f97-beab-da8179e13c84)
 
+[CharacterRandomizerDemonstration-[00.00.000-00.07.231]-audio.webm](https://github.com/user-attachments/assets/ce8e76f1-f03e-40a3-afb0-833c29db60d6)
+
 
 # Installation
 Buy a copy of the game from Steam if you don't already own it. A steam copy is mandatory for the mod to work. [Kubinashi Recollection on Steam](https://store.steampowered.com/app/1635980/Kubinashi_Recollection/)
