@@ -15,6 +15,9 @@
 - Omake stages can be added to the pool of stages
 - Alternate character stages given their own doors in the entrance (accessable by beating all 10 worlds)
 - Alternate character stages can be added to the randomizer pool
+- ALL CHARACTERS ON ALL STAGES
+- Every character can obtain every puzzle piece and beat every stage
+- Character choice can be randomized, or selected manually (selection is game-wide, I'm not masochistic enough to program per stage slection)
 - Rumia cute
 
 [RumiaTest-[00.00.000-00.25.279]-audio.webm](https://github.com/user-attachments/assets/f43aec9c-bc80-4f97-beab-da8179e13c84)
@@ -50,7 +53,7 @@ Probably going to be ignored. If suggestions or fixes pop up, I'll look into the
 
 ~~Possibly in the future, I'll look into including stages from Cirno, Rumia, and Seija's respective modes. That's a bit more work and will require adding doors to make sure the game is always possible to complete.~~ It's done. Playable Cirno, Seija, and Rumia are all here. 
 
-Futher in the future, I may attempt adding character randomization. That will be a massive undertaking, as every stage will require a resouce allocation for each possible character, along with safe switching between everyone. We'll see. 
+~~Futher in the future, I may attempt adding character randomization. That will be a massive undertaking, as every stage will require a resouce allocation for each possible character, along with safe switching between everyone. We'll see.~~ Much pain was taken but the project is finished. 
 
 
 # Credits 
@@ -63,6 +66,5 @@ UndertaleModTool and its various offshoots for making it even possible to work w
 
 # Discredits
 
-Dinner for watching House MD for 2 hours then passing out with the show still running (and leaving most episodes cut off to the last 10 minutes so we couldn't see anything of the actual episode). He also hasn't shown up for Dragon Ball Daima. 
+Dinner for being himself. 
 
-I will not elaborate on why he gets his own section beyond that. 
